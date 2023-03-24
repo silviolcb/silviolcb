@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Silvio lcb 😎😉
+## Bem-vindo(a) ao perfil do Silviolcb 😎😉
 
  <div>
   <a href="https://github.com/silviolcb">
@@ -22,6 +22,6 @@
   <a href=""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/silvio-luiz-da-costa-barbosa-a30ba225/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/cadudevemdobro/cadudevemdobro/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
 
 </div>
